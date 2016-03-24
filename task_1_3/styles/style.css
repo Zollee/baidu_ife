@@ -1,0 +1,45 @@
+.over{
+	border:1px solid #999;
+	font-family:SimHei;
+	background-color: #eee;
+	padding: 20px;
+	overflow: auto;
+}
+
+.team {
+	background-color: #fff;
+	width: 200px;
+	border:1px solid #999;
+	float: left;
+
+}
+
+.team img{
+	padding: 20px;
+
+}
+.team p {
+	float: right;
+	margin-right: 10px;
+
+}
+
+.person {
+	background-color: #fff;
+	border:1px solid #999;
+
+	width: 120px;
+	float: right;
+}
+.person img {
+	padding: 20px;
+}
+
+.intro{
+	background-color: #fff;
+	border:1px solid #999;
+
+	padding: 20px;
+	margin: 0px 140px 0px 220px;
+}
+
